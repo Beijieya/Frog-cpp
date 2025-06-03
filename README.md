@@ -66,9 +66,7 @@ project/
 │  ├─ demo.mp4
 │  └─ screenshot.png
 └─ README.md
-## 🖼 UML 類別圖
 
-![類別圖](doc/class_diagram.png)
 
 📌 備註
 遊戲採 Console 輸出，非圖形化介面
