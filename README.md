@@ -66,6 +66,9 @@ project/
 │  ├─ demo.mp4
 │  └─ screenshot.png
 └─ README.md
+## 🖼 UML 類別圖
+
+![類別圖](doc/class_diagram.png.png)
 
 
 📌 備註
