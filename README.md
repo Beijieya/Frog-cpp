@@ -52,20 +52,7 @@ std::vector<GameObject*> 管理所有物件
 
 不同難度會影響車速（easy / hard）
 
-📁 專案檔案結構
-project/
-├─ src/              # 所有程式碼檔案
-│  ├─ main.cpp
-│  ├─ Map.cpp / .h
-│  ├─ Entity.cpp / .h
-│  ├─ Vehicle.cpp / .h
-├─ doc/              # 說明用文件
-│  ├─ class_diagram.png
-│  └─ slides.pdf
-├─ assets/           # Demo 錄影與截圖
-│  ├─ demo.mp4
-│  └─ screenshot.png
-└─ README.md
+
 ## 🖼 UML 類別圖
 
 ![類別圖](doc/class_diagram.png.png)
